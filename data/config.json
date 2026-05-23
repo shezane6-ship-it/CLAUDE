@@ -1,0 +1,40 @@
+{
+  "search": {
+    "keywords": [
+      "Software Engineer",
+      "Python Developer",
+      "Backend Engineer"
+    ],
+    "location": "remote",
+    "country_code": "FR",
+    "job_type": "fulltime",
+    "max_results_per_keyword": 20,
+    "min_match_score": 60,
+    "search_interval_hours": 4
+  },
+  "application": {
+    "auto_apply_email": false,
+    "sender_email": "",
+    "sender_password": "",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "max_applications_per_day": 10,
+    "blacklisted_companies": [],
+    "required_keywords": [],
+    "excluded_keywords": [
+      "unpaid",
+      "non rémunéré",
+      "stage non rémunéré"
+    ]
+  },
+  "claude": {
+    "model": "claude-opus-4-7",
+    "api_key_env": "ANTHROPIC_API_KEY",
+    "cover_letter_language": "auto",
+    "cover_letter_max_words": 300
+  },
+  "notifications": {
+    "enabled": false,
+    "webhook_url": ""
+  }
+}
