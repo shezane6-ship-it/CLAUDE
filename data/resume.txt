@@ -1,49 +1,41 @@
-== EXAMPLE RESUME — Replace this file with your own CV ==
+SHAZAN MOHAMMAD
+Chargé de clientèle B2B — Alternance Master 2026
+shazan.m@outlook.fr  |  06 66 92 40 91  |  Île-de-France  |  Permis B + Véhicule  |  LinkedIn : @Shazan Mohammad
+PROFIL
+Étudiant en Bachelor RDA, je maîtrise la gestion de portefeuille clients B2B (200 comptes/semaine), le suivi via CRM HubSpot et Salesforce, et le reporting analytique sous Excel. Ma rigueur dans le suivi des KPIs, ma capacité à personnaliser l'approche client et mon sens de la fidélisation — confirmés en alternance et en stage — font de moi un candidat opérationnel pour un poste de chargé de clientèle dans un environnement banque, assurance ou services B2B.
+EXPÉRIENCES PROFESSIONNELLES
+Commercial B2B — Suivi portefeuille & CRM  |  Lefebvre Dalloz
+Fév–Mai 2025  ·  Stage | Courbevoie
+-	Suivi et relance d'un portefeuille de 200 clients B2B par semaine dans CRM HubSpot
+-	Reporting hebdomadaire Excel : taux de réponse, statut des comptes, identification des opportunités
+-	Personnalisation des supports de communication et des argumentaires par type de client
+Assistant polyvalent — Relation client & Développement  |  Zein Trading
+2025 — en cours  ·  Alternance | Île-de-France
+-	Gestion de la relation client en point de vente : conseil, négociation et fidélisation
+-	Suivi des indicateurs de satisfaction et de performance commerciale (KPIs hebdomadaires)
+-	Animation de lives TikTok et gestion de la communauté Instagram avec analyse des statistiques
+Assistant commercial — Portefeuille & Digital  |  Asma Emballage
+Sep 2023–Jan 2024  ·  Alternance | Pierrefitte-sur-Seine
+-	Prospection terrain et fidélisation d'un portefeuille de clients existants
+-	Suivi des KPIs digitaux et optimisation de la stratégie de communication — +30 % d'engagement
+PROJETS PERSONNELS
+Import textile — Bangladesh (2023–2024)
+-	300 € → 1 000 € CA (x3) : gestion de la relation fournisseur, suivi des commandes, maîtrise des marges
+Boutique e-commerce Shopify (2023–2024)
+-	Gestion complète de la relation client e-commerce, traitement des commandes et stratégie de fidélisation
+COMPÉTENCES
+Relation client & Portefeuille : Gestion portefeuille B2B, fidélisation, suivi compte, personnalisation de l'offre, satisfaction client
+CRM & Outils analytiques : HubSpot CRM, Salesforce, Excel avancé, tableaux de bord KPIs, reporting analytique
+Commercial : Prospection B2B, négociation, argumentation, relance, développement de portefeuille
+Digital : Community Management, Social Media Analytics, Shopify, Pack Office, Trello, Slack
+FORMATION
+Master Management Digital & Innovation (visé)  —  En recherche d'école — Alternance  (Rentrée sept. 2026)
+Bachelor Responsable du Développement des Activités  —  CIFCA Paris 18e  (2025–2026, Alternance)
+Titre Pro Négociateur Technico-Commercial — Bac+2  —  IDC Formation Paris 18e  (2024–2025)
+Baccalauréat STMG Mention Bien  —  Lycée Suger, Seine-Saint-Denis  (2023)
+LANGUES
+Français : natif  |  Anglais : intermédiaire  |  Hindi / Ourdou : co
 
-Name: Jane Doe
-Email: jane.doe@example.com
-Phone: +33 6 12 34 56 78
-LinkedIn: linkedin.com/in/janedoe
-GitHub: github.com/janedoe
-
-SUMMARY
--------
-Full-stack Python engineer with 5 years of experience building scalable web services,
-REST APIs, and data pipelines. Passionate about clean architecture, open-source, and
-developer experience.
-
-SKILLS
-------
-Languages  : Python (expert), TypeScript, SQL, Bash
-Frameworks : FastAPI, Django, React, Node.js
-Databases  : PostgreSQL, Redis, MongoDB, SQLite
-DevOps     : Docker, Kubernetes, GitHub Actions, Terraform, AWS (EC2, S3, Lambda)
-Other      : Machine Learning basics, Agile/Scrum, TDD
-
-EXPERIENCE
-----------
-Senior Backend Engineer — TechCorp (Paris) | 2022–Present
-• Designed and deployed a FastAPI microservice handling 2M requests/day (99.9% uptime)
-• Reduced query latency 60% by introducing Redis caching and PostgreSQL indexing
-• Led migration from monolith to microservices (8-person team, 6-month project)
-
-Python Developer — StartupXYZ (Remote) | 2020–2022
-• Built ETL pipelines processing 500GB/day of user-event data with Airflow + Spark
-• Developed internal React dashboards for real-time KPI monitoring
-• Mentored 2 junior engineers and established code-review practices
-
-Junior Developer — Freelance | 2019–2020
-• Delivered 12+ client projects (e-commerce, APIs, automation scripts)
-
-EDUCATION
 ---------
-MSc Computer Science — Université Paris-Saclay | 2019
-BSc Mathematics & Computer Science — Université de Lyon | 2017
-
-LANGUAGES
----------
-French (native), English (fluent), Spanish (basic)
-
-INTERESTS
----------
+Open source contributor (3 GitHub repos, 150+ stars), competitive programming, 
 Open source contributor (3 GitHub repos, 150+ stars), competitive programming, hiking
