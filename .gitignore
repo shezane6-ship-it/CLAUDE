@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Secrets / local config
+.env
+*.local.json
+
+# Runtime data (keep structure, ignore data files)
+data/jobs.db
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db

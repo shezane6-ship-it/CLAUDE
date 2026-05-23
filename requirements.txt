@@ -1,0 +1,11 @@
+# Core
+anthropic>=0.40.0          # Claude AI — cover letters, job scoring
+schedule>=1.2.0            # Optional: cron-style scheduling helper
+
+# Already in Python stdlib (no install needed):
+#   sqlite3, smtplib, json, logging, argparse, re, pathlib, urllib
+
+# Optional extras (uncomment as needed)
+# playwright>=1.44.0       # Browser automation for one-click applying
+# requests>=2.31.0         # HTTP requests (if you add extra job boards)
+# python-dotenv>=1.0.0     # Load .env file for ANTHROPIC_API_KEY
