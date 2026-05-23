@@ -1,0 +1,37 @@
+═══════════════════════════════════════════════════════════════
+   SHAZAN MOHAMMAD — RÉCAPITULATIF DES CANDIDATURES
+   Généré le 23 mai 2026
+═══════════════════════════════════════════════════════════════
+
+COMMENT POSTULER :
+  1. Cliquez sur le lien Indeed de l'offre
+  2. Copiez la lettre de motivation correspondante
+  3. Collez-la dans le formulaire Indeed ou par email
+  ─ Les lettres sont dans data/candidatures/ ─
+
+──────────────────────────────────────────────────────────────
+ # | SCORE | ENTREPRISE              | POSTE               | LIEN
+──────────────────────────────────────────────────────────────
+ 1 |  92 ⭐ | La Poste (Formaposte)   | Commercial B2B      | https://to.indeed.com/aatyll9hynw4
+ 2 |  88 ⭐ | EEC Paris               | Commercial B2B Bac+5| https://to.indeed.com/aabnr8gbzphy
+ 3 |  84 ⭐ | BOCKLIP Paris 16e       | Chargé clientèle    | https://to.indeed.com/aahzs4txbc26
+ 4 |  82 ⭐ | L'École Française       | Commercial/RC SaaS  | https://to.indeed.com/aa4nsxzfnfcq
+ 5 |  80 ⭐ | ISCOD Malakoff          | Dév. commercial BtoB| https://to.indeed.com/aak4jwl2ysx6
+ 6 |  76 ⭐ | ISCOD Paris 1er         | Service clients     | https://to.indeed.com/aam4hfjwnlbq
+ 7 |  72   | STELLANTIS (Poissy)     | Relation clientèle  | https://to.indeed.com/aacfs2dbgjxz
+──────────────────────────────────────────────────────────────
+
+PRIORITÉS ABSOLUES (postuler en premier) :
+  ► La Poste : profil parfait, expérience + permis B requis ✓
+  ► EEC Paris : missions identiques à votre expérience, bonne rémunération
+
+STATUT :
+  □ La Poste          → À postuler
+  □ EEC Paris         → À postuler
+  □ BOCKLIP           → À postuler
+  □ L'École Française → À postuler
+  □ ISCOD Malakoff    → À postuler
+  □ ISCOD Paris       → À postuler
+  □ STELLANTIS        → À postuler (niveau BTS, peut être utile en backup)
+
+═══════════════════════════════════════════════════════════════
