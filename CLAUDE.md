@@ -6,7 +6,7 @@ This file provides guidance to Claude Code when working in this workspace.
 
 ## What This Is
 
-Ce workspace est le Jarvis personnel de [VOTRE NOM]. Il a été créé avec le Jarvis Starter Kit pour servir d'assistant IA personnel au quotidien.
+Ce workspace est le Jarvis personnel de Shaz. Il a été créé avec le Jarvis Starter Kit pour servir d'assistant IA personnel au quotidien.
 
 **Ce fichier (CLAUDE.md) est la fondation.** Il est automatiquement chargé au début de chaque session. Gardez-le à jour, c'est la source de vérité unique sur la façon dont Claude doit comprendre et opérer dans ce workspace.
 
@@ -17,7 +17,15 @@ Ce workspace est le Jarvis personnel de [VOTRE NOM]. Il a été créé avec le J
 > Cette section sera remplie automatiquement lors de l'installation initiale via le module `/install module-installs/jarvis-install`.
 > Elle peut ensuite évoluer au fil du temps quand votre situation change.
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
+Je m'appelle Shazam (Shaz pour les intimes) et je vis à Saint-Denis, en région parisienne. Je suis étudiant en bachelor (bac+3) en commerce, management et marketing à CIFCA (Paris 18), en alternance chez Zein Trading, un grossiste à Aubervilliers, où je m'occupe du merchandising, de la vente client, du stock et de la préparation des commandes.
+
+Mes objectifs prioritaires actuels sont de valider mon bachelor, de lancer ma première offre de consulting IA en side project et de décrocher une alternance pour mon master.
+
+À long terme, je veux devenir consultant IA indépendant, construire une notoriété reconnue sur l'IA appliquée aux PME, terminer mon master en alternance dans une entreprise IA et bâtir une clientèle fidèle de clients récurrents.
+
+Le domaine où j'ai besoin du plus d'aide en ce moment : productivité et organisation au quotidien.
+
+**Comment m'appeler :** Shaz.
 
 ---
 
